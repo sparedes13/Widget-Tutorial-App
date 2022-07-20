@@ -11,7 +11,7 @@ export const Header = () => {
                 Dropdown
             </Link>
             <Link href='/search' className='item'>
-                Search
+                wiki Search
             </Link>
             <Link href='/translate' className='item'>
                 Google Translate
