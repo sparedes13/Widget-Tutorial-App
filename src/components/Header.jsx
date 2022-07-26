@@ -8,7 +8,7 @@ export const Header = () => {
                 Accordion
             </Link>
             <Link href='/dropdown' className='item'>
-                Dropdown
+                Dropdwn
             </Link>
             <Link href='/search' className='item'>
                 wiki Search
